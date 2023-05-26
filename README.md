@@ -40,8 +40,7 @@ A tabela de multiplicação será exibida no dropdown abaixo do campo de entrada
 Contribuições para este projeto são bem-vindas. Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request no repositório. 
 Suas contribuições podem ajudar a aprimorar a funcionalidade e usabilidade da aplicação de tabela de multiplicação.
 
-![Screenshot_24](https://github.com/TiagoMuller/Code_Tabuada/assets/39675368/c7637480-bb8f-4efd-a9d9-6952674988df)
-![Screenshot_23](https://github.com/TiagoMuller/Code_Tabuada/assets/39675368/2a20d090-9676-4958-b163-194b386d04d5)
+![Screenshot_24](https://github.com/TiagoMuller/Code_Tabuada/assets/39675368/c7637480-bb8f-4efd-a9d9-6952674988df)![Screenshot_23](https://github.com/TiagoMuller/Code_Tabuada/assets/39675368/2a20d090-9676-4958-b163-194b386d04d5)
 
 -------------------------
  
