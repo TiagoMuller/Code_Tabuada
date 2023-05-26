@@ -62,8 +62,11 @@ JavaScript: Programming language used to implement the functionality of generati
 # Features:
 
 User Input: Allows the user to enter a number for which they want to generate the multiplication table.
+
 Generation of Multiplication Table: Generates the multiplication table for the provided number and displays it in a select dropdown.
+
 Dynamic Display: Updates the multiplication table dynamically when the user changes the input number.
+
 Error Handling: Displays an error message if the user enters an invalid number or leaves the input field empty.
 
 # Usage:
